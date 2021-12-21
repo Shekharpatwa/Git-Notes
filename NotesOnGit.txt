@@ -1,3 +1,5 @@
+NOTE ------- use "git add -A" to save changes to your repository
+
 1. git init                                         -> to initally your repository
 2. git config user.name ShekharPatwa                -> your git profile username
 3. git config user.email shekharpatwa2001@gmail.com -> assign to your email
@@ -6,3 +8,13 @@
 6. git commit                                       -> To commit any changes in your git repository after editing your file
 7. git add -A                                       -> To add all file in single command to your repository
 8. git commit -m "Any Message"                      -> To commit with Message
+9. git checkout <filename>.<filetype>               -> to get back your file if made any mistakes or deleted ----""""If not committed your file in git""""
+10. git checkout -file                              -> to get all filesback at once
+11. git log                                         -> show email and commits you have done
+12. git log -p -<no. of files you want to show      ->no. of files you want to check
+                ""1 or no. of you have created"">  
+
+13. git diff                                        -> To show the things you add in your files
+14. git commit -a -m "Any Message"
+
+
