@@ -5,3 +5,4 @@
 5. git add <filename>.<filetype>                    -> to add your file to repository
 6. git commit                                       -> To commit any changes in your git repository after editing your file
 7. git add -A                                       -> To add all file in single command to your repository
+8. git commit -m "Any Message"                      -> To commit with Message
