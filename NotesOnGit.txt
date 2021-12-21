@@ -1,0 +1,7 @@
+1. git init                                         -> to initally your repository
+2. git config user.name ShekharPatwa                -> your git profile username
+3. git config user.email shekharpatwa2001@gmail.com -> assign to your email
+4. git status                                       -> show your git repository status
+5. git add <filename>.<filetype>                    -> to add your file to repository
+6. git commit                                       -> To commit any changes in your git repository after editing your file
+7. git add -A                                       -> To add all file in single command to your repository
