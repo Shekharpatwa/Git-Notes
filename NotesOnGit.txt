@@ -1,4 +1,4 @@
-NOTE ------- use "git add -A" to save changes to your repository
+NOTE ------- use this command  --- first "git add -A" or "git commit -a -m <Any Message> " to save changes to your repository
 
 1. git init                                         -> to initally your repository
 2. git config user.name ShekharPatwa                -> your git profile username
@@ -16,5 +16,25 @@ NOTE ------- use "git add -A" to save changes to your repository
 
 13. git diff                                        -> To show the things you add in your files
 14. git commit -a -m "Any Message"
+15. git rm --cached <filename>                      -> To delete from git repo only not from your device
+16. git rm <filename>                               -> delete your file from both repo and device
 
+17 git status -s                                    ->show files you have not committed and made changes
+
+
+18. git remote
+19. git remote -v
+
+20. ssh-keygen -t rsa -b 4096 -C "Shekhar@shekharpatwa2001.com"
+21. eval "$(ssh-agent -s)"
+22. ssh-add ~/.ssh/id_rsa
+23. cat ~/.ssh/id_rsa.pub
+24. c
+25. git remote
+26. git remote -v
+27. git push -u origin master
+
+
+
+IMP ------ ssh-add ~/.ssh/id_rsa  -- SSH Private Key
 
